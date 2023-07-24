@@ -1,2 +1,2 @@
-# picture_gallery
+# picturegalery
 gallery
